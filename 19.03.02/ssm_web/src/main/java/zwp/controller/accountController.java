@@ -38,6 +38,8 @@ public class accountController {
     public void findAll2(Model model){
 
         System.out.println(111);
+        System.out.println(111);
+        System.out.println(111);
 
     }
 
