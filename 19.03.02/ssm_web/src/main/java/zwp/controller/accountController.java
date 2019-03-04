@@ -43,6 +43,15 @@ public class accountController {
 
     }
 
+    @RequestMapping("/findAll3")
+    public void findAll3(Model model){
+
+        System.out.println(111);
+        System.out.println(111);
+        System.out.println(111);
+
+    }
+
 
 
 
